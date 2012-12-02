@@ -1,0 +1,6 @@
+﻿@import url("blocks/b-calculator/b-calculator.css");
+		@import url("blocks/b-calculator/__element/b-calculator__button.css");
+		@import url("blocks/b-calculator/__element/b-calculator__result.css");
+		@import url("blocks/b-calculator/__element/_mod/b-calculator__button_type_number.css");
+		@import url("blocks/b-calculator/__element/_mod/b-calculator__button_type_point.css");
+		@import url("blocks/b-calculator/__element/_mod/b-calculator__button_type_znak.css");

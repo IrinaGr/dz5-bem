@@ -1,0 +1,7 @@
+﻿.b-calculator__button {
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#D0ECF4), to(#D0ECF4), color-stop(0.5, #5BC9E1));
+    height: 80px;
+	position: absolute;
+	font-size: 150%;
+	width: 75px;
+}

@@ -1,0 +1,24 @@
+﻿.b-calculator__button_type_znak {
+    right: 0;
+	height: 64px;
+}
+
+.b-calculator__button_type_znak[name="equally"] {
+    bottom: 0;
+}
+
+.b-calculator__button_type_znak[name="plus"] {
+    bottom: 64px;
+}
+
+.b-calculator__button_type_znak[name="minus"] {
+    bottom: 128px;
+}
+
+.b-calculator__button_type_znak[name="multiply"] {
+    bottom: 192px;
+}
+
+.b-calculator__button_type_znak[name="divide"] {
+    bottom: 256px;
+}

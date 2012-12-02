@@ -1,0 +1,34 @@
+﻿.b-calculator__button_type_number[name="zero"] {
+    bottom: 0;
+	width: 150px;
+}
+
+.b-calculator__button_type_number[name="one"],
+.b-calculator__button_type_number[name="two"],
+.b-calculator__button_type_number[name="three"] {
+    bottom: 80px;
+}
+
+.b-calculator__button_type_number[name="four"],
+.b-calculator__button_type_number[name="five"],
+.b-calculator__button_type_number[name="six"] {
+    bottom: 160px;
+}
+
+.b-calculator__button_type_number[name="seven"],
+.b-calculator__button_type_number[name="eight"],
+.b-calculator__button_type_number[name="nine"] {
+    bottom: 240px;
+}
+
+.b-calculator__button_type_number[name="three"],
+.b-calculator__button_type_number[name="six"],
+.b-calculator__button_type_number[name="nine"] {
+    left: 150px;
+}
+
+.b-calculator__button_type_number[name="two"],
+.b-calculator__button_type_number[name="five"],
+.b-calculator__button_type_number[name="eight"] {
+    left: 75px;
+}
